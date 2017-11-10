@@ -1,4 +1,4 @@
-var NativeModules, PropTypes, RNSearchBar, React, ReactNative, SearchBar;
+var NativeModules, PropTypes, RNSearchBar, React, ReactNative;
 
 React = require('react');
 
